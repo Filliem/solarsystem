@@ -1,0 +1,59 @@
+body {
+    background-color: aquamarine;
+    font-family: fantasy;
+}
+
+.nav {
+    background-color: aliceblue;
+    text-align: center;
+    height: 25px;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    background-color: brown;
+    color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+} 
+
+a:hover {
+    background-color: aquamarine;
+    font-size: larger;
+}
+
+.star {
+    background-color: aliceblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+h2 {
+    color: brown;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+li {
+    color: deepskyblue;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+img {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+}
+
+.gallery {
+    text-align: center;
+}
